@@ -1,0 +1,7 @@
+{
+  "name": "google-login2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
